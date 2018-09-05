@@ -1,9 +1,9 @@
-D:\Panchkula\Component\Component\bin\Debug\Component.exe.config
-D:\Panchkula\Component\Component\bin\Debug\Component.exe
 D:\Panchkula\Component\Component\bin\Debug\Component.pdb
 D:\Panchkula\Component\Component\obj\Debug\Component.Form1.resources
 D:\Panchkula\Component\Component\obj\Debug\Component.Properties.Resources.resources
 D:\Panchkula\Component\Component\obj\Debug\Component.csproj.GenerateResource.cache
 D:\Panchkula\Component\Component\obj\Debug\Component.csproj.CoreCompileInputs.cache
-D:\Panchkula\Component\Component\obj\Debug\Component.exe
 D:\Panchkula\Component\Component\obj\Debug\Component.pdb
+D:\Panchkula\Component\Component\bin\Debug\Component.dll.config
+D:\Panchkula\Component\Component\bin\Debug\Component.dll
+D:\Panchkula\Component\Component\obj\Debug\Component.dll
